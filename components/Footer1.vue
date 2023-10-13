@@ -1,11 +1,11 @@
 <template>
-    <footer class="m-0 w-full">
-        <div class="bg-black bg-cover text-white max-w-full m-0  ">
-            <nav class="container  p-4 flex justify-between  ">
+    <footer class="m-0 w-full ">
+        <div class="bg-black bg-cover text-white">
+            <nav class="container p-4 flex justify-between">
                 <div class="w-3/6">
                     <div class="relative h-35 w-35">
                         <NuxtLink to="/"> <img src='/logo.png' alt="logo "
-                                class="absolute h-14 w-14 -left-11 -top-4 " /><img src='/creativelabs.png' alt="logo" />
+                                class="absolute h-14 w-18 -left-23 -top-4 " /><img src='/creativelabs.png' alt="logo" />
                         </NuxtLink>
                         <p id="About">Creative Labs, a web agency based in Sweden, is expanding its reach and opening a
                             new
@@ -52,7 +52,7 @@
                     </NuxtLink>
                 </div>
             </nav>
-            <div class="flex justify-between w-9/12"> <span>© COPYRIGHT 2023 Creative Labs. All rights reserved. </span>
+            <div class="flex justify-between w-9/12 p-2 "> <span>© COPYRIGHT 2023 Creative Labs. All rights reserved. </span>
                 <span>Privacy policy | Cookie policy</span>
             </div>
         </div>
@@ -60,6 +60,4 @@
 </template>
 
 <script setup></script>
-<style scoped>
-;
-</style>
+<style scoped></style>

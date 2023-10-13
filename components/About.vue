@@ -1,5 +1,5 @@
 <template>
-    <div class="bgblue p-10 m-10 ">
+    <div class="bgblue p-10 m-10 ml-0 ">
         <span id="about" class="font-bold">About us</span>
         <h3 class="font-bold ">Pharetra massa massa ultri.</h3>
         <p> Ornare quam viverra orci sagittis eu volutpat odio facilisis. Purus non enim praesent elementum facilisis
