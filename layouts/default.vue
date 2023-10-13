@@ -1,5 +1,5 @@
 <template >
-    <div class="bg-cover bg-[url('/img/Hero-Bg.png')] p-10 pt-0 tablet:bg-slate-500">
+    <div class="bg-cover bg-[url('/img/Hero-Bg.png')] p-10 pt-0 ">
         <header>
             <nav class="container mx-auto p-4 flex justify-between ">
 
@@ -60,7 +60,6 @@
     </div>
     <div class="container mx-auto">
         <slot />
-
     </div>
 </template>
 <script setup>

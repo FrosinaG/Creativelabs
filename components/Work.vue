@@ -1,5 +1,5 @@
 <template>
-    <div class="bgrose p-10 m-10 "><span id="work" class="font-bold">Our offer</span>
+    <div class="bgrose p-10 m-10 mr-0"><span id="work" class="font-bold">Our offer</span>
         <h3 class="font-bold ">Convallis a cras semper au.</h3>
         <p>Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Ornare quam viverra orci
             sagittis eu volutpat odio facilisis. Purus non enim praesent elementum facilisis leo vel fringilla est.
